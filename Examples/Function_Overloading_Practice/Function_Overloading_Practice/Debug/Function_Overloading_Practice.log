@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\udit\udit\udit\placement exams\ics 45c\examples\function_overloading_practice\function_overloading_practice\main.cpp(17): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\udit\udit\udit\placement exams\ics 45c\examples\function_overloading_practice\function_overloading_practice\main.cpp(33): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\udit\udit\udit\placement exams\ics 45c\examples\function_overloading_practice\function_overloading_practice\main.cpp(35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Function_Overloading_Practice.vcxproj -> C:\Users\Udit\UDIT\UDIT\Placement Exams\ICS 45C\Examples\Function_Overloading_Practice\Debug\Function_Overloading_Practice.exe
